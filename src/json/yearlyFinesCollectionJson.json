@@ -1,0 +1,15 @@
+{
+  "yearlyFinesCollectionJson": [
+    {
+      "date": "2019",
+      "openCases": 145750,
+      "closedCases": 100555
+    },
+    {
+      "date": "2020",
+      "openCases": 234975.9,
+      "closedCases": 190964.5
+    }
+  ]
+}
+       

@@ -1,0 +1,65 @@
+{
+  "monthlyExecutionJson": [
+    {
+      "date": "10/19",
+      "openCases": 14666.8,
+      "closedCases": 13700
+    },
+    {
+      "date": "11/19",
+      "openCases": 12300,
+      "closedCases": 10000
+    },
+    {
+      "date": "12/19",
+      "openCases": 15000,
+      "closedCases":12450
+    },
+    {
+      "date": "1/20",
+      "openCases": 11900,
+      "closedCases": 10120
+    },
+    {
+      "date": "2/20",
+      "openCases": 10900,
+      "closedCases": 10060
+    },
+    {
+      "date": "3/20",
+      "openCases": 18000,
+      "closedCases": 15050
+    },
+    {
+      "date": "4/20",
+      "openCases": 13566,
+      "closedCases": 10023
+    },
+    {
+      "date": "5/20",
+      "openCases": 12887,
+      "closedCases": 11180
+    },
+    {
+      "date": "6/20",
+      "openCases": 10396,
+      "closedCases": 10108
+    },
+    {
+      "date": "7/20",
+      "openCases": 16500,
+      "closedCases": 9270
+    },
+    {
+      "date": "8/20",
+      "openCases": 12298.9,
+      "closedCases": 9320
+    },
+    {
+      "date": "9/20",
+      "openCases": 10399,
+      "closedCases": 8170
+    }
+  ]
+}
+       

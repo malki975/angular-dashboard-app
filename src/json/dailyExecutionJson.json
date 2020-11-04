@@ -1,0 +1,155 @@
+{
+  "dailyExecutionJson": [
+    {
+      "date": "16.8",
+      "openCases": 400,
+      "closedCases": 200
+    },
+    {
+      "date": "17.8",
+      "openCases": 700,
+      "closedCases": 450
+    },
+    {
+      "date": "18.8",
+      "openCases": 223,
+      "closedCases": 120
+    },
+    {
+      "date": "19.8",
+      "openCases": 755,
+      "closedCases": 560
+    },
+    {
+      "date": "20.8",
+      "openCases": 100,
+      "closedCases": 50
+    },
+    {
+      "date": "21.8",
+      "openCases": 356,
+      "closedCases": 123
+    },
+    {
+      "date": "22.8",
+      "openCases": 357,
+      "closedCases": 180
+    },
+    {
+      "date": "23.8",
+      "openCases": 396,
+      "closedCases": 108
+    },
+    {
+      "date": "24.8",
+      "openCases": 600,
+      "closedCases": 270
+    },
+    {
+      "date": "25.8",
+      "openCases": 498.9,
+      "closedCases": 320
+    },
+    {
+      "date": "26.8",
+      "openCases": 399,
+      "closedCases": 170
+    },
+    {
+      "date": "27.8",
+      "openCases": 497.9,
+      "closedCases": 500
+    },
+    {
+      "date": "28.8",
+      "openCases": 489,
+      "closedCases": 200
+    },
+    {
+      "date": "29.8",
+      "openCases": 420,
+      "closedCases": 250
+    },
+    {
+      "date": "30.8",
+      "openCases": 289,
+      "closedCases": 250
+    },
+    {
+      "date": "31.8",
+      "openCases": 499,
+      "closedCases": 150
+    },
+    {
+      "date": "1.9",
+      "openCases": 619,
+      "closedCases": 320
+    },
+    {
+      "date": "2.9",
+      "openCases": 765,
+      "closedCases": 550
+    },
+    {
+      "date": "3.9",
+      "openCases": 811,
+      "closedCases": 450
+    },
+    {
+      "date": "4.9",
+      "openCases": 112,
+      "closedCases": 50
+    },
+    {
+      "date": "5.9",
+      "openCases": 523,
+      "closedCases": 438
+    },
+    {
+      "date": "6.9",
+      "openCases": 889,
+      "closedCases": 540
+    },
+    {
+      "date": "7.9",
+      "openCases": 478,
+      "closedCases": 263
+    },
+    {
+      "date": "8.9",
+      "openCases": 537,
+      "closedCases": 457
+    },
+    {
+      "date": "9.9",
+      "openCases": 623,
+      "closedCases": 124
+    },
+    {
+      "date": "10.9",
+      "openCases": 568,
+      "closedCases": 300
+    },
+    {
+      "date": "11.9",
+      "openCases": 100,
+      "closedCases": 310
+    },
+    {
+      "date": "12.9",
+      "openCases": 675,
+      "closedCases": 323
+    },
+    {
+      "date": "13.9",
+      "openCases": 487,
+      "closedCases": 145
+    },
+    {
+      "date": "14.9",
+      "openCases": 500,
+      "closedCases": 370
+    }
+  ]
+}
+       

@@ -1,0 +1,65 @@
+{
+  "monthlyFinesCollectionJson": [
+    {
+      "date": "10/19",
+      "openCases": 21999,
+      "closedCases": 20550
+    },
+    {
+      "date": "11/19",
+      "openCases": 18450,
+      "closedCases": 15000
+    },
+    {
+      "date": "12/19",
+      "openCases": 21000,
+      "closedCases": 18675
+    },
+    {
+      "date": "1/20",
+      "openCases": 17850,
+      "closedCases": 15180
+    },
+    {
+      "date": "2/20",
+      "openCases": 16350,
+      "closedCases": 14000
+    },
+    {
+      "date": "3/20",
+      "openCases": 27000,
+      "closedCases": 22575
+    },
+    {
+      "date": "4/20",
+      "openCases": 20349,
+      "closedCases": 15034.5
+    },
+    {
+      "date": "5/20",
+      "openCases": 19330.5,
+      "closedCases": 16770
+    },
+    {
+      "date": "6/20",
+      "openCases": 14000,
+      "closedCases": 13700
+    },
+    {
+      "date": "7/20",
+      "openCases": 24750,
+      "closedCases": 13905
+    },
+    {
+      "date": "8/20",
+      "openCases": 18298.9,
+      "closedCases": 13320
+    },
+    {
+      "date": "9/20",
+      "openCases": 15598.5,
+      "closedCases": 12255
+    }
+  ]
+}
+       
